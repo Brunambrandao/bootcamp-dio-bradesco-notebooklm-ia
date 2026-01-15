@@ -18,3 +18,6 @@ Este projeto foi desenvolvido como parte do **Bootcamp Bradesco - GenAI & Dados 
 
 ## 💡 Insights Principais
 [cite_start]A IA não é apenas uma ferramenta de defesa, mas uma necessidade de conformidade regulatória, especialmente diante das novas resoluções do Banco Central do Brasil para sistemas como o **Pix**[cite: 11, 12].
+
+## NotebbokLM
+[cite_start] link: https://notebooklm.google.com/notebook/fb2b4986-03ca-428e-b050-618dba29f797 
